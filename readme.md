@@ -106,6 +106,7 @@ After running the app:
 | 📈 2D Plot             | Saved dynamically and displayed in the UI                     |
 | 🌐 Interactive Explore | Can be enhanced later using `plotly` or `altair`              |
 
+<p align="center"> <img src="wordcloud_plot.png" alt="WordCloud Visualization" width="600"/> </p>
 ---
 
 ## 📦 Folder Structure
