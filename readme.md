@@ -105,8 +105,20 @@ After running the app:
 | 🧬 UMAP Embedding      | Clusters chunks based on semantic similarity                  |
 | 📈 2D Plot             | Saved dynamically and displayed in the UI                     |
 | 🌐 Interactive Explore | Can be enhanced later using `plotly` or `altair`              |
+| ☁️ Word Cloud          | Highlights frequent keywords relevant for queries             |
+| 🖼️ UI Screenshots      | Interface view of deployed Gradio application                |
 
-<p align="center"> <img src="wordcloud_plot.png" alt="WordCloud Visualization" width="600"/> </p>
+<p align="center"> 
+  <img src="wordcloud_plot.png" alt="WordCloud Visualization" width="600"/> 
+</p>
+
+<p align="center"> 
+  <img src="deployed_app_img1.png" alt="Deployed App Screenshot 1" width="600"/>
+</p>
+
+<p align="center"> 
+  <img src="deployed_app_img2.png" alt="Deployed App Screenshot 2" width="600"/>
+</p>
 ---
 
 ## 📦 Folder Structure
