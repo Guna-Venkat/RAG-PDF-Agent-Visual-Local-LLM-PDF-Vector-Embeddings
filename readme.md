@@ -113,11 +113,11 @@ After running the app:
 </p>
 
 <p align="center"> 
-  <img src="deployed_app_img1.png" alt="Deployed App Screenshot 1" width="600"/>
+  <img src="deployed_app_img1.PNG" alt="Deployed App Screenshot 1" width="600"/>
 </p>
 
 <p align="center"> 
-  <img src="deployed_app_img2.png" alt="Deployed App Screenshot 2" width="600"/>
+  <img src="deployed_app_img2.PNG" alt="Deployed App Screenshot 2" width="600"/>
 </p>
 ---
 
